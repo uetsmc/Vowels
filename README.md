@@ -1,0 +1,2 @@
+# Vowels
+CodeWars Vowels Solution
